@@ -1,2 +1,3 @@
 # GoLang
-Step by Step GoLang programs
+Step by Step learning of GoLang in 5Days
+
